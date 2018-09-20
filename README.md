@@ -1,4 +1,4 @@
-# React Server Side rendering
+# React Server Side Rendering
 
 Custom Server Side Rendering React Redux React-Router Project. This could act as a starter template for your project if you do not want to take the approach of creating a SPA with `create-react-app`
 
