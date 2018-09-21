@@ -19,7 +19,7 @@ const config = {
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'build')
   },
-
+  // Not bundle any library that is inside node_modules
   externals: [webpackNodeExternals()]
 };
 
